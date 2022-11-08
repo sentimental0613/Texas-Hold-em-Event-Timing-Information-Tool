@@ -1,0 +1,16 @@
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.csprojAssemblyReference.cache
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.Properties.Resources.resources
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.csproj.GenerateResource.cache
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.csproj.CoreCompileInputs.cache
+D:\repos\大三下\視覺化程式設計\期末專案\bin\Debug\期末專案.exe.config
+D:\repos\大三下\視覺化程式設計\期末專案\bin\Debug\期末專案.exe
+D:\repos\大三下\視覺化程式設計\期末專案\bin\Debug\期末專案.pdb
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.exe
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.pdb
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.Backstage.resources
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.Display.resources
+D:\repos\大三下\視覺化程式設計\期末專案\bin\Debug\Interop.WMPLib.dll
+D:\repos\大三下\視覺化程式設計\期末專案\bin\Debug\AxInterop.WMPLib.dll
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\Interop.WMPLib.dll
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\AxInterop.WMPLib.dll
+D:\repos\大三下\視覺化程式設計\期末專案\obj\Debug\期末專案.csproj.ResolveComReference.cache
